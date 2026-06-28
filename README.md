@@ -7,7 +7,7 @@ This project is a machine learning model that predicts forest fire risk using en
 
 ##  Live Demo
 Try the deployed application here:  
-👉 **https://algerian-forest-fwi-prediction.onrender.com**
+**https://algerian-forest-fwi-prediction.onrender.com**
 
 ---
 
