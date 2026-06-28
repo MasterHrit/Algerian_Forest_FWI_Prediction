@@ -1,17 +1,17 @@
-# 🌲 Algerian Forest Fire Prediction
+#  Algerian Forest Fire Prediction
 
-## 📌 Overview
+## Overview
 This project is a machine learning model that predicts forest fire risk using environmental and meteorological data from the Algerian Forest Fire dataset.
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 Try the deployed application here:  
 👉 **https://algerian-forest-fwi-prediction.onrender.com**
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 - Data preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Feature selection  
@@ -22,7 +22,7 @@ Try the deployed application here:
 
 ---
 
-## 🤖 Models Used
+## Models Used
 - Linear Regression
 - Ridge Regression  
 - Lasso Regression  
@@ -30,7 +30,7 @@ Try the deployed application here:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 Model performance is evaluated using:
 - Accuracy / R² Score  
 - Mean Absolute Error (MAE)  
@@ -38,7 +38,7 @@ Model performance is evaluated using:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python  
 - Pandas  
 - NumPy  
