@@ -1,0 +1,16 @@
+ipykernel
+requests
+numpy
+pandas
+xlrd
+lxml
+html5lib
+beautifulsoup4
+matplotlib
+seaborn
+scikit-learn
+imblearn
+openpyxl
+statsmodels
+flask
+gunicorn
